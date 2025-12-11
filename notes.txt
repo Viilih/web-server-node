@@ -1,0 +1,11 @@
+Some stuff to look at after and study
+- TCP
+- UDP
+- HTTP (There are different versions of HTTP but we are working on the HTTP/1.1 because it is more simple)
+- TCP Hadnshake 
+- HTTPS
+- TLS
+- BackPressure -> A mechanism to avoid overflow by the producer/consumer
+- Sockets
+- Deep understanding on promises
+- Saving references in javascript
